@@ -4,16 +4,16 @@ This repository contains tools for generating experimental materials and packagi
 
 ---
 
-## 🧪 What's Included
+## What's Included
 
-### ✨ Stimulus Generation (under `generation/`)
+### Stimulus Generation (under `generation/`)
 - **Audio**: Generate, segment, align, and clean auditory stimuli using gTTS, Praat, and MFA-compatible tools
 - **Images**: Generate visual stimuli via DALL·E API
 - **Text**: Create variations of sentence stimuli or structured prompt templates
 
 ---
 
-### 📦 Ready-to-Use Task Bundles (under `tasks/`)
+### Ready-to-Use Task Bundles (under `tasks/`)
 
 Each task is packaged as a `.zip` file and can be downloaded, customized, and run as-is:
 
@@ -27,6 +27,6 @@ These include PCIbex-compatible or HTML setups with instructions and demo data.
 
 ---
 
-## 📄 License
+## License
 
 MIT License for code. For image/audio tools, please review the usage terms of external APIs (e.g., DALL·E, Google TTS, MFA).
