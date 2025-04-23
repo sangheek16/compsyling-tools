@@ -1,0 +1,5 @@
+Python scripts beginning with `Converter_` are written for specific use cases where the materials had a particular structure (e.g., a fixed number of columns).
+
+They are not general-purpose tools and were designed to work with specific datasets.
+
+More flexible and generalizable versions of these scripts will be added to the repository soon.
