@@ -2,6 +2,10 @@
 
 This repository contains tools for generating experimental materials and packaging complete tasks for psycholinguistic experiments.
 
+It includes:
+- pcibex template for categorical perception, self-paced reading, priming, web-based visual world paradigm;
+- python code for converting text to audio material, generating images for the visual word paradigm
+
 ---
 
 ## What's Included
@@ -17,10 +21,10 @@ This repository contains tools for generating experimental materials and packagi
 
 Each task is packaged as a `.zip` file and can be downloaded, customized, and run as-is:
 
+- `demo-pci-intro.zip` — introduction to basic PCIbex controllers (using Ibex Farm syntax) 
 - `demo-categorical-perception.zip` — b/p categorical perception task  
 - `demo-gardenpath-selfpacedreading.zip` — garden path effect using self-paced reading  
-- `demo-lexical-priming.zip` — semantic/phonological priming effect using lexical decision  
-- `demo-pci-intro.zip` — introduction to basic PCIbex controllers (using Ibex Farm syntax)  
+- `demo-lexical-priming.zip` — semantic/phonological priming effect using lexical decision   
 - `demo-visualwordparadigm.zip` — web-based visual world paradigm using WebGazer.js on PCIbex
 
 These include PCIbex-compatible or HTML setups with instructions and demo data.
